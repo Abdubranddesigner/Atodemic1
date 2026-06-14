@@ -1,0 +1,6 @@
+{
+  "name": "Atodemic",
+  "description": "Atodemic is a comprehensive student operating system that helps students plan studies, track progress, prepare for exams, measure readiness, and build consistent learning habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
